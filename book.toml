@@ -1,0 +1,7 @@
+[book]
+authors = ["yanyaoer"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "長(Zhang)白(Bai) "
+description = "for mdBook Quickstart repo"
