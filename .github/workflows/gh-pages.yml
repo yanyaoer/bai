@@ -23,7 +23,8 @@ jobs:
           mdbook-version: 'latest'
 
       - run: mdbook build
-      - run: touch .nojekyll; echo 'zhangbai.com' > CNAME
+      - run: touch .nojekyll
+      - run: echo 'zhangbai.com' > CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
