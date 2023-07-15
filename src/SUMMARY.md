@@ -4,7 +4,7 @@
 
 ---
 
-[长白](bai.md)
+- [长白](bai.md)
 
 
 HTML renderer options
